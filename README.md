@@ -1,4 +1,5 @@
-# kiwi
+# kiwi!
+
 A light color scheme for Sublime Text 2/3 with cooler colors.
 
-This will be on Package Control... soon :) 
+Screenshot and package control coming shortly - I want to make sure I've the kinks ironed out for everyone!
